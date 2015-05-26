@@ -29,9 +29,9 @@
  *
  */
 
-#include <X11/Xlib.h>
-#include <X11/keysym.h>
-#include <X11/XF86keysym.h>
+#include "/storage/extSdCard/TREE/usr/include/X11/Xlib.h"
+#include "/storage/extSdCard/TREE/usr/include/X11/keysym.h"
+#include "/storage/extSdCard/TREE/usr/include/X11/XF86keysym.h"
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
